@@ -1,0 +1,124 @@
+[
+    {
+        "nama": "Ordinary Man From Mumbai",
+        "genre": ["Adventure", "Action", "Mystery"],
+        "hariRilis": "11-10-2021",
+        "rating": 4.70,
+        "penulis": "Ivan Aldy Ganesen",
+        "penerbit": "Gawknesia",
+        "sinopsis": "data/sinopsis/ordinary_man_from_mumbai.txt",
+        "isi":"data/content/ordinary_man_from_mumbai/",       
+        "image":"images/ordinary_man_from_mumbai.jpg"
+    },
+    {
+        "nama": "Identity Crisis: Why Was I Born as a ChiWa?",
+        "genre": ["Slice of Life", "Drama"],
+        "hariRilis": "13-12-2018",
+        "rating": 4.83,
+        "penulis": "Ferdinand",
+        "penerbit": "Gawknesia",
+        "sinopsis": "data/sinopsis/ic_wwibaac.txt",
+        "isi":"data/content/ic_wwibaac/",
+        "image":"images/ic_wwibaac.jpg"
+    },
+    {
+        "nama": "Omoi Ga Uku",
+        "genre": ["Romance", "Drama", "Comedy"],
+        "hariRilis": "11-09-2019",
+        "rating": 4.67,
+        "penulis": "Ivan Aldy Ganesen",
+        "penerbit": "Gawknesia",
+        "sinopsis": "assets/data/sinopsis/omoi_ga_uku.txt",
+        "isi":"assets/data/content/omoi_ga_uku/",
+        "image":"assets/image/omoi_ga_uku.jpg"
+    },
+    {
+        "nama": "James Ngebon: Kisah Pria yang Ngebon di Kantin Borju sebanyak 3 Juta Rupiah.",
+        "genre": ["Comedy", "Slice of Life"],
+        "hariRilis": "29-06-2020",
+        "rating": 4.51,
+        "penulis": "Nazhif Haidar",
+        "penerbit": "Gawknesia",
+        "sinopsis": "",
+        "isi":"",
+        "image":""
+    },
+    {
+        "nama": "Who Killed Captain Sawung?",
+        "genre": ["Action", "Psychological", "Comedy"],
+        "hariRilis": "06-07-2023",
+        "rating": 4.93,
+        "penulis": "Christopher FN",
+        "penerbit": "Ganesha Word King",
+        "sinopsis": "",
+        "isi":""
+    },
+    {
+        "nama": "Sawung Ranger",
+        "genre": ["Action"],
+        "hariRilis": "07-07-2022",
+        "rating": 4.48,
+        "penulis": "Christopher FN",
+        "penerbit": "Ganesha Word King",
+        "sinopsis": "",
+        "isi":""
+    },
+    {
+        "nama": "Kubalas Salammu Dengan \"Bismillah\"",
+        "genre": ["Drama"],
+        "hariRilis": "03-02-2020",
+        "rating": 4.69,
+        "penulis": "Ahmad Rozy",
+        "penerbit": "Ganesha Word King",
+        "sinopsis": "",
+        "isi":""
+    },
+    {
+        "nama": "Die from Nubes and Then Reincarnated as a Rektor",
+        "genre": ["Isekai", "Comedy"],
+        "hariRilis": "31-01-2018",
+        "rating": 4.99,
+        "penulis": "Ferdinand",
+        "penerbit": "Gawknesia",
+        "sinopsis": "",
+        "isi":""
+    },
+    {
+        "nama": "Welcome to the Jungle",
+        "genre": ["Adventure", "Comedy"],
+        "hariRilis": "28-01-2017",
+        "rating": 4.23,
+        "penulis": "The Bard",
+        "penerbit": "EHO!",
+        "sinopsis": "",
+        "isi":""
+    },
+    {
+        "nama": "Kugatsu no Kimi no Uso",
+        "genre": ["Drama", "Music"],
+        "hariRilis": "01-06-2014",
+        "rating": 5.00,
+        "penulis": "Christopher FN",
+        "penerbit": "Ganesha Word King",
+        "sinopsis": "",
+        "isi":""
+    },
+    {
+        "nama": "Manusia Kalong",
+        "genre": ["Action"],
+        "hariRilis": "30-05-2020",
+        "rating": 4.51,
+        "penulis": "Nazhif Haidar",
+        "penerbit": "Gawknesia",
+        "sinopsis": "",
+        "isi":""
+    },
+    {
+        "nama": "Valeim no Yuusha (バーレイムの勇者)",
+        "genre": ["Fantasy", "Adventure"],
+        "hariRilis": "25-12-2023",
+        "rating": 4.99,
+        "penulis": "Reiji Raion",
+        "penerbit":"Ganesha Word King"
+    }
+]
